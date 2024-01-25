@@ -14,9 +14,9 @@
         <nav>
             <img class="logo" src="images/fav-icon-dev.svg" alt="Wild Code School logo">
             <ul>
-                <li><a href="#learn">Learn with pleasure</a></li>
-                <li><a href="#skills">Increase your skills</a></li>
-                <li><a href="#contact">Contact us</a></li>
+                <li><a href="/#learn">Learn with pleasure</a></li>
+                <li><a href="/#skills">Increase your skills</a></li>
+                <li><a href="/#contact">Contact us</a></li>
             </ul>
         </nav>
     </header>

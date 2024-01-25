@@ -11,14 +11,21 @@
     outline-offset: 4px;
 }
 
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+body>header {
+    box-shadow: 0 0 10px rgba(0,0,0,.5);
+    z-index: 1;
+}
+
 body>footer, 
 body>header, 
 body>main {
     padding: var(--spacing);
-}
-
-body>header {
-    padding-bottom: 0;
 }
 
 body>header>nav {
@@ -62,12 +69,12 @@ article {
     flex-direction: column;
 }
 
-footer {
+body>footer {
     --font-size: .875em;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     background-color: var(--gray);
-    /* color: white; */
+    margin-top: auto;
 }
