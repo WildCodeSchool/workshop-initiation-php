@@ -12,10 +12,10 @@ defaults:
       layout: "default" # possible values: default or tic-tac
 
 style: dev # possible values: dev, data, ciber, design or wild.
-title: 'Workshop introduction à PHP'
+title: 'Atelier introduction à PHP'
 description: 'Découvrir les bases du langage PHP et réaliser un premier formulaire de contact.'
 # type: ''
 main_image: 'images/fantasy-2995326_1920.jpg' # http or relative path to image
-show_clone: true
+show_clone: false
 show_toc: true
 lang: fr

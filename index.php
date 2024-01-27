@@ -85,9 +85,11 @@
             <strong>
                 <a href="https://www.wildcodeschool.com" target="_blank">Wild Code School</a>
             </strong>
+            <br>
+            <small>Learn tech skills with passion ❤️</small>
         </p>
         <p>
-            Learn tech skills with passion ❤️
+            <small>Images from <a href="https://unsplash.com/fr" target="_blank">Unsplash</a></small>
         </p>
     </footer>
 </body>
